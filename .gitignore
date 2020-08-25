@@ -1,10 +1,7 @@
-### Windows ###
-# Windows thumbnail cache files
-Thumbs.db
-Thumbs.db:encryptable
-ehthumbs.db
-ehthumbs_vista.db
+# Object file
+*.o
 
+<<<<<<< HEAD
 # Dump file
 *.stackdump
 
@@ -26,3 +23,7 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows
 .idea/workspace.xml
+=======
+# Ada Library Information
+*.ali
+>>>>>>> parent of 02bbe23... Добавил ограничения Windows
